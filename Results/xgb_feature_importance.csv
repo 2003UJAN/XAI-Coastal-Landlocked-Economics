@@ -1,0 +1,61 @@
+Feature,Importance
+Ease_of_Doing_Business_Proxy,0.21539202
+Literacy_Rate,0.19667949
+Electricity_Access_Rate,0.084573925
+State_Haryana,0.04419062
+Higher_Education_Enrollment,0.032393232
+Policy_Reform_Index,0.02363381
+Year,0.022668181
+Time_Trend_Index,0.020107346
+Internet_Penetration_Rate,0.019217117
+Trade_Connectivity_Index,0.018942084
+GDP_Growth_Smoothed_3Y,0.01740665
+Health_Index,0.015929336
+Infrastructure_Composite_Index,0.015401049
+FDI_Attractiveness_Index,0.015387219
+State_Odisha,0.013303022
+Coastal_Trade_Interaction,0.013299889
+Road_Density,0.012064878
+Urbanization_Rate,0.01030786
+Public_Capital_Expenditure_Index,0.01019921
+Agriculture_Share,0.0095175505
+Logistics_Connectivity_Index,0.009352257
+Rail_Density,0.00930134
+Climate_Vulnerability_Index,0.00887408
+Export_Intensity,0.008531815
+Industrial_Output_Index,0.008473342
+State_Rajasthan,0.0083023915
+Cyclone_Exposure_Index,0.008229415
+State_Tamil Nadu,0.008105789
+Coastal_Erosion_Risk,0.0074664643
+Unemployment_Rate,0.007457489
+Manufacturing_Share,0.0073660826
+State_Himachal Pradesh,0.0070816292
+State_Gujarat,0.006764799
+State_Kerala,0.0067338506
+Tourism_Revenue_Index,0.006526502
+Drought_Risk_Index,0.006517064
+State_Karnataka,0.0064271684
+Sea_Level_Rise_Exposure,0.0059203682
+Services_Share,0.005536024
+Flood_Risk_Index,0.0052292827
+Land_Submergence_Risk_Index,0.0051990477
+Heat_Stress_Index,0.0051530325
+State_West Bengal,0.0051252013
+State_Uttar Pradesh,0.0045407508
+Port_Access_Index,0.0044797286
+Labor_Force_Participation,0.0040016063
+Annual_Disaster_Loss_Rate,0.003633995
+Is_Coastal,0.003342903
+Coastal_Climate_Interaction,0.0030808626
+State_Madhya Pradesh,0.002084429
+State_Punjab,0.000546835
+Post_2010_Climate_Risk_Intensification,0.0
+Post_2000_Infrastructure_Acceleration,0.0
+Post_Liberalization,0.0
+State_Bihar,0.0
+State_Assam,0.0
+State_Goa,0.0
+State_Delhi,0.0
+State_Maharashtra,0.0
+Region_Type_Landlocked,0.0
